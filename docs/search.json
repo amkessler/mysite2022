@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "More Stuff About Me",
+    "section": "",
+    "text": "Here is some new stuff!\n\n1 + 1 \n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aaron M. Kessler",
+    "section": "",
+    "text": "Hi, I’m Aaron and I’m a reporter at the AP in Washington. I like cats, the ocean and F1 racing. I’ve got two little ones and enjoy watching them grow up."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Aaron M. Kessler",
+    "section": "Education",
+    "text": "Education\nUniversity of Missouri tktktktk\nColumbia University\nWashington University in St. Louis"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Aaron M. Kessler",
+    "section": "Skills",
+    "text": "Skills\nReporting and Writing\nData Analysis\nFOIA laws"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Hi there this is my portfolio page! Yay!"
+  }
+]
