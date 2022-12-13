@@ -13,9 +13,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: https://writing.colostate.edu/guides/documents/resume/functionalsample.pdf
+        text: Resume
       - about.qmd
       - portfolio.qmd
       - walkthrough.qmd
+      
 
 
 format:
